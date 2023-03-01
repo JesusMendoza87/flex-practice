@@ -23,7 +23,7 @@ It is good to understand the prior four layout modes:
 
 ...
 To Learn more about **FLEX** Click on the following link:
-[title](https://www.example.com)
+[W3 Schools](https://www.example.com)
 
 ---
 
