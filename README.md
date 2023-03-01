@@ -12,14 +12,14 @@ There is **no** tools needed to contribute to this project.
 ---
 
 Happy Coding
-![] (https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+![](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 ...
 ## Flexbox Layout Module
 It is good to understand the prior four layout modes:
-    -Block, for sections in a webpage
-    -Inline, for text
-    -Table, for two-dimensional table data
-    -Positionedm for exoplicit position of an element.
+    - Block, for sections in a webpage
+    - Inline, for text
+    - Table, for two-dimensional table data
+    - Positionedm for exoplicit position of an element.
 
 ...
 To Learn more about **FLEX** Click on the following link:
