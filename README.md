@@ -11,7 +11,7 @@ There is **no** tools needed to contribute to this project.
 
 ---
 
-Happy Coding
+Happy Coding<br>
 ![](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 ...
 ## Flexbox Layout Module
@@ -25,11 +25,11 @@ It is good to understand the prior four layout modes:
 To Learn more about **FLEX** Click on the following link:
 [W3 Schools](https://www.example.com)
 
----
+...
 
 This is an example of the code:
-'<div class="flex-container">
+"<div class="flex-container">
   <div>1</div>
   <div>2</div>
   <div>3</div>
-</div>'
+</div>"
