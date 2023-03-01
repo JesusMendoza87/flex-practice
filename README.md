@@ -12,24 +12,23 @@ There is **no** tools needed to contribute to this project.
 ---
 
 Happy Coding<br>
-![](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
-...
+![coding gif](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+
 ## Flexbox Layout Module
 It is good to understand the prior four layout modes:
-    - Block, for sections in a webpage
-    - Inline, for text
-    - Table, for two-dimensional table data
-    - Positionedm for exoplicit position of an element.
+- Block, for sections in a webpage
+- Inline, for text
+- Table, for two-dimensional table data
+- Positionedm for exoplicit position of an element.
 
-...
-To Learn more about **FLEX** Click on the following link:
+To Learn more about **flex**  Click on the following link:
 [W3 Schools](https://www.example.com)
 
-...
+<br>
 
 This is an example of the code:
-"<div class="flex-container">
+```<div class="flex-container">
   <div>1</div>
   <div>2</div>
   <div>3</div>
-</div>"
+</div>```
